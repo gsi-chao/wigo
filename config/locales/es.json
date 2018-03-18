@@ -1,0 +1,8 @@
+{
+  "invalid email address": "Invalid email address",
+  "Error, expected username to be unique. Value chao":"Error, expected to be unique.",
+  "unique": "Campo obligatorio",
+  "general.minlength": "needs a minimum length of %s",
+  "general.user.password.regexp": "is no valid email",
+  "general.cast": "is not valid"
+}

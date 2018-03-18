@@ -1,0 +1,12 @@
+{
+  " `chao`": " `chao`",
+  "Er": "Er",
+  "Er`": "Er`",
+  "Error, expected `username` to be unique": {
+    "": "Error, expected `username` to be unique.",
+    " Value `chao`": "Error, expected `username` to be unique. Value `chao`"
+  },
+  "Error, expected username to be unique": {
+    " Value chao": "Error, expected username to be unique. Value chao"
+  }
+}
